@@ -64,7 +64,7 @@
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
-            <a class="navbar-brand" href="index.html" style="padding: 0.5%;">
+            <a class="navbar-brand" href="/index.php" style="padding: 0.5%;">
               <img src="images/Green_Medical_Logo__1_-removebg-preview.png" alt="" style="width: 95px ; height: 85px">
             </a>
             </a>
@@ -73,40 +73,44 @@
               <span class=""> </span>
             </button>
 
+            
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <div class="d-flex mr-auto flex-column flex-lg-row align-items-center">
                 <ul class="navbar-nav  ">
-                  <li class="nav-item ">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="about.html"> About</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="treatment.html">Treatment</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="doctor.html">Doctors</a>
-                  </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="testimonial.html">Testimonial</a>
+                    <a class="nav-link" href="/index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="/about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="healthcarebot.html">Health Bot</a>
+                    <a class="nav-link" href="/treatment.php">Treatment</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/doctor.php">Doctors</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/testimonial.php">Testimonial</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/contact.php">Contact Us</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/healthcarebot.php">Health Bot</a>
                   </li>
                 </ul>
               </div>
               <div class="quote_btn-container">
-                <a href="">
+                <a href="/php/login_form.php">
                   <i class="fa fa-user" aria-hidden="true"></i>
                   <span>
                     Login
                   </span>
                 </a>
-                <a href="">
+                </div> 
+                <div class="quote_btn-container">
+                <a href="/php/register_form.php">
+               
                   <i class="fa fa-user" aria-hidden="true"></i>
                   <span>
                     Sign Up
@@ -270,24 +274,24 @@
                 Useful link
               </h5>
               <div class="info_links_menu">
-                <a class="active" href="index.html">
-                  Home
-                </a>
-                <a href="about.html">
-                  About
-                </a>
-                <a href="treatment.html">
-                  Treatment
-                </a>
-                <a href="doctor.html">
-                  Doctors
-                </a>
-                <a href="testimonial.html">
-                  Testimonial
-                </a>
-                <a href="contact.html">
-                  Contact us
-                </a>
+              <a class="active" href="/index.php">
+                Home
+              </a>
+              <a href="/about.php">
+                About
+              </a>
+              <a href="/treatment.php">
+                Treatment
+              </a>
+              <a href="/doctor.php">
+                Doctors
+              </a>
+              <a href="/testimonial.php">
+                Testimonial
+              </a>
+              <a href="/contact.php">
+                Contact us
+              </a>
               </div>
             </div>
           </div>

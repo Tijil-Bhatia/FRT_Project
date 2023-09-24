@@ -77,36 +77,39 @@
               <div class="d-flex mr-auto flex-column flex-lg-row align-items-center">
                 <ul class="navbar-nav  ">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html"> About</a>
+                    <a class="nav-link" href="/about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="treatment.html">Treatment</a>
+                    <a class="nav-link" href="/treatment.php">Treatment</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="doctor.html">Doctors</a>
+                    <a class="nav-link" href="/doctor.php">Doctors</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="testimonial.html">Testimonial</a>
+                    <a class="nav-link" href="/testimonial.php">Testimonial</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="/contact.php">Contact Us</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="healthcarebot.html">Health Bot</a>
+                    <a class="nav-link" href="/healthcarebot.php">Health Bot</a>
                   </li>
                 </ul>
               </div>
               <div class="quote_btn-container">
-                <a href="">
+                <a href="/php/login_form.php">
                   <i class="fa fa-user" aria-hidden="true"></i>
                   <span>
                     Login
                   </span>
                 </a>
-                <a href="">
+                </div> 
+                <div class="quote_btn-container">
+                <a href="/php/register_form.php">
+               
                   <i class="fa fa-user" aria-hidden="true"></i>
                   <span>
                     Sign Up
@@ -150,7 +153,7 @@
                     <p>
                       Discover a place of healing and hope, where medical expertise meets compassionate care. Our hospital is dedicated to serving you and your loved ones with the highest standard of healthcare.
                     </p>
-                    <a href="contact.html">
+                    <a href="/contact.php">
                       Contact Us
                     </a>
                   </div>
@@ -182,7 +185,7 @@
                     <p>
                       Explore our state-of-the-art facilities, equipped with the latest technology and designed for patient comfort and safety.
                     </p>
-                    <a href="contact.html">
+                    <a href="/contact.php">
                       Contact Us
                     </a>
                   </div>
@@ -214,7 +217,7 @@
                     <p>
                       Meet the dedicated individuals who lead our hospital, ensuring that our patients receive the best possible care. 
                     </p>
-                    <a href="/contact.html">
+                    <a href="/contact.php">
                       Contact Us
                     </a>
                   </div>
@@ -329,7 +332,7 @@
             <p>
                Discover a place of healing and hope, where medical expertise meets compassionate care. Our hospital is dedicated to serving you and your loved ones with the highest standard of healthcare.Experience the convenience of modern healthcare with our online booking platform. Easily schedule appointments, access medical records, and connect with specialists, all from the comfort of your home. 
             </p>
-            <a href="about.html">
+            <a href="/about.php">
               Read More
             </a>
           </div>
@@ -716,19 +719,19 @@
                 <a class="active" href="index.html">
                   Home
                 </a>
-                <a href="about.html">
+                <a href="/about.php">
                   About
                 </a>
-                <a href="treatment.html">
+                <a href="/treatment.php">
                   Treatment
                 </a>
-                <a href="doctor.html">
+                <a href="/doctor.php">
                   Doctors
                 </a>
-                <a href="testimonial.html">
+                <a href="/testimonial.php">
                   Testimonial
                 </a>
-                <a href="contact.html">
+                <a href="/contact.php">
                   Contact us
                 </a>
               </div>
